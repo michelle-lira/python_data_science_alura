@@ -1,4 +1,4 @@
-# curso-matplotlib
+# Curso: Matplotlib
 
-Vamos utilizar o Jupyter Notebook, com a linguagem Python. 
-As bibliotecas utilizadas serão: Pandas, Numpy, Matplotlib e Pillow.
+Utilizamos o Jupyter Notebook, com a linguagem Python. 
+As bibliotecas utilizadas foram: Pandas, Numpy, Matplotlib e Pillow.

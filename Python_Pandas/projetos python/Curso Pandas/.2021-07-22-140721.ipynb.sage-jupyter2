@@ -1,7 +1,0 @@
-{"backend_state":"init","connection_file":"/tmp/xdg-runtime-user/jupyter/kernel-26d0b2c5-14d6-4c49-adbd-d60573451908.json","kernel":"python3","kernel_error":"","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"trust":true,"type":"settings"}
-{"cell_type":"markdown","exec_count":1,"id":"21f8bc","input":"#### Requisitos:\n\n1. Selecione somente os imóveis classificados com tipo 'Apartamento'\n2. Selecione os imóveis classificados com tipos 'Casa', 'Casa de Condomínio', e 'Casa de Vila'\n3. Selecione os imóveis com área entre 60 e 100 metros quadrados, incluindo os limites\n4. Selecione os impoveis que tenham pelo menos 4 quartos e aluguel menor que R$ 2.000,00","kernel":"python3","pos":1,"state":"done","type":"cell"}
-{"cell_type":"markdown","id":"707bd2","input":"## Seleções e Frequências","pos":0.5,"state":"done","type":"cell"}
-{"cell_type":"markdown","id":"ea6f06","input":"# Relatório de Análise 4","pos":0,"state":"done","type":"cell"}
-{"end":1626973901836,"exec_count":2,"id":"2fd3e7","input":"import pandas as pd","kernel":"python3","pos":2,"start":1626973901391,"state":"done","type":"cell"}
-{"id":"69fb9d","input":"","pos":3,"state":"done","type":"cell"}
-{"last_load":1626973645061,"type":"file"}

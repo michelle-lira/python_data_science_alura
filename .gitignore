@@ -77,19 +77,7 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 .ipynb.sage-jupyter2
-
-.2021-07-22-140721.ipynb.sage-jupyter2
-.2021-07-22-160530.ipynb.sage-jupyter2
-.base_de_dados.ipynb.sage-jupyter2
-.criando_agrupamentos.ipynb.sage-jupyter2
-.criando_estruturas_de_dados.ipynb.sage-jupyter2
-.criando_novas_variaveis.ipynb.sage-jupyter2
-.identificando_e_removendo_outliers.ipynb.sage-jupyter2
-.imoveis_residenciais.ipynb.sage-jupyter2
-.selecoes_e_frequencias.ipynb.sage-jupyter2
-.tipos_de_imoveis.ipynb.sage-jupyter2
-.tratamento_de_dados.ipynb.sage-jupyter2
-.tratamento_de_dados_faltantes.ipynb.sage-jupyter2 
+.sage-jupyter2
 
 # IPython
 profile_default/
